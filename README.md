@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: miguelopio.
 - 😄 Pronouns: me...
 - ⚡ Fun fact: I paid for winrar.
-- TODO ESTO ES UNA PRUEBA BASICA DE GITHUB & VSC
+- TODO ESTO ES UNA PRUEBA BASICA DE GITHUB & VSC - Ing. Miguel Soto 2024
